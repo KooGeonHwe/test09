@@ -10,5 +10,6 @@ public class Ex09_if {
 		num = input.nextInt();
 		if(num >10 )
 			System.out.println("종속 문장 실행");
+		System.out.println("다음 문장들 실행");
 	}
 }
